@@ -1,6 +1,6 @@
 # DirLinkBench
 
-This repository contains the implementation of our submitted paper **"Rethinking Link Prediction for Directed Graphs"**.
+This repository contains the implementation of our preprint paper **"Rethinking Link Prediction for Directed Graphs"**.
 
 ## Environment Setup
 Ensure your environment meets the following dependencies:
